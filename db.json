@@ -1,0 +1,30 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "",
+      "description": "",
+      "rating": "",
+      "imagePath": ""
+    },
+    {
+      "id": 2,
+      "name": "",
+      "description": "",
+      "rating": "",
+      "imagePath": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "",
+      "dishId": 2
+    },
+    {
+      "comment": "This is from postman",
+      "dishId": 1,
+      "id": 3
+    }
+  ]
+}
